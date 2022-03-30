@@ -1,0 +1,16 @@
+---
+:id: 116969563
+:submitters:
+- :name: Eli Lingat
+  :email: ejgl@uw.edu
+- :name: Claudine Kaye Dulay
+  :email: clauked@uw.edu
+- :name: Emily Estrada
+  :email: emiest9@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-03-16 03:36:56.128839000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-03-15 20:36:56.128839000 Z
+:status: processed
+:score: 6.0
